@@ -1,0 +1,12 @@
+1
+Is it a mammal?
+2
+Does it have fur?
+3
+cat
+dog
+4
+Does it bark?
+5
+elephant
+lion
